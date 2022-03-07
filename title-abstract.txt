@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Investigation on Latent Dirichlet Allocation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+We explore both Markov Chain Monte Carlo algorithms and variational inference methods for Latent Dirichlet Allocation (LDA), a generative probabilistic topic model for data such as text data. LDA is a generative probabilistic topic model, meaning we treat data as observations that arise from a generative probabilistic process including hidden variables, i.e. structure we want to find in the data. Topic modelling allows us to fulfill algorithmic needs to organize, understand, and annotate documents according to the discovered structure. For text data, hidden variables reflect the thematic structure of a corpus that we don't have access to, we only have access to our observations which are the documents of the collection themselves. Our aim is to infer this hidden structure through posterior inference, that is, we want to compute the conditional distribution of the hidden variables given our observations, and we use our knowledge from Q1 about inference methods to solve this problem. 
