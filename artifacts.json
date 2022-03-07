@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/a1limon/artifact-directory-template",
-    "project-repository": "https://github.com/a1limon/DSC180B-A06-LDA",
-    "dockerhub-repository": "a1limon/Dockerfile:latest",
+    "project-repository": "https://github.com/duha-aldebakel/DSC180B-LDACode",
+    "dockerhub-repository": "daldebak/dsc180b:latest",
     "project-website-url": "https://a1limon.github.io/DSC180B.visual.io/",
     "project-website-code": "https://github.com/a1limon/DSC180B.visual.io"
 }
